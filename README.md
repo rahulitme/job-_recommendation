@@ -25,7 +25,4 @@ Top matches are shown to the user.
   "preferences": { "job_type": "Remote" }
 }
 
-![Screenshot 2024-10-09 111309](https://github.com/user-attachments/assets/09e1fe75-6709-455f-b3e3-f8cdcafcfc05)
-
-![Screenshot 2024-10-09 111329](https://github.com/user-attachments/assets/85a3dce6-ff9d-4616-9155-06905a4eeec1)
 
