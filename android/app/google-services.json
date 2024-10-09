@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "881183358834",
+    "project_id": "mallock-228db",
+    "storage_bucket": "mallock-228db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:881183358834:android:b0da7ca9a0941c0a83a7eb",
+        "android_client_info": {
+          "package_name": "com.example.mallock"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAycF6cScIcogxyK9FV8Q9Z-aIIBxGowUo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:881183358834:android:80e2b385d25578c883a7eb",
+        "android_client_info": {
+          "package_name": "com.example.myapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAycF6cScIcogxyK9FV8Q9Z-aIIBxGowUo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
